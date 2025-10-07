@@ -1,0 +1,4 @@
+﻿  jeu plus ou moins.cpp
+C:\Users\isahouli\source\repos\jeu-plus-ou-moins\jeu plus ou moins\jeu plus ou moins.cpp(19,31): warning C4390: ';' : une instruction contrôlée a été trouvée vide ; est-ce ce que vous souhaitiez ?
+C:\Users\isahouli\source\repos\jeu-plus-ou-moins\jeu plus ou moins\jeu plus ou moins.cpp(172,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  jeu plus ou moins.vcxproj -> C:\Users\isahouli\Source\Repos\jeu-plus-ou-moins\x64\Debug\jeu plus ou moins.exe
